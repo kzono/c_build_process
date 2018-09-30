@@ -1,0 +1,8 @@
+Archive map
+_bar in foo_bar.o
+_foo in foo_bar.o
+
+
+foo_bar.a(foo_bar.o):
+0000000000000020 T _bar
+0000000000000000 T _foo
